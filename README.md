@@ -1,5 +1,5 @@
 # KitPatcher
-KitPatcher for Unity 3d.
+KitPatcher for Unity.
 
 Thank you for beta testing KitPatcher.
 Please visit the Ghostdog Studio Discord to access support channels. 
