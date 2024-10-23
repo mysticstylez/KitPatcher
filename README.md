@@ -12,5 +12,4 @@ Thank you.
 
 Versions:
 
-KitPatcher Pro v0.0.8a
 KitPatcher v0.0.6a
