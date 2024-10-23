@@ -17,7 +17,7 @@ game client within a private group or studio. It will need some additional work 
 
 Dependencies included in this package. If it's an issue then please reach out to me. 
 
-MIT License - Can use for personal projects or commercial game use. Please do not redistribute modified copies of this source code for commercial use. 
+MIT License - Can use for personal projects or commercial game use. Please do not redistribute modified copies of this source code for commercial use by itself. 
 
 Versions:
 
