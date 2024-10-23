@@ -15,7 +15,7 @@ patch notes and other menus before launching the game
 This was originally designed as a closed environment dev tool for installing and updating a 
 game client within a private group or studio. It will need some additional work to function as a commercial type tool. See roadmap. 
 
-Dependancies included in this package. If it's an issue then please reach out to me. 
+Dependencies included in this package. If it's an issue then please reach out to me. 
 
 This package contains no license. Please do not redistribute modified versions or use for commercial use. 
 Thank you. 
