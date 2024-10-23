@@ -17,7 +17,7 @@ game client within a private group or studio. It will need some additional work 
 
 Dependencies included in this package. If it's an issue then please reach out to me. 
 
-This package contains no license. Please do not redistribute modified versions or use for commercial use. 
+This package contains no license. Please do not redistribute modified versions or use for commercial use by itself. You're welcome to use in your projects or commercial game. Thank you.
 Thank you. 
 
 Versions:
