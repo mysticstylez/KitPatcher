@@ -17,6 +17,8 @@ game client within a private group or studio. It will need some additional work 
 
 Dependencies included in this package. If it's an issue then please reach out to me. 
 
+IF USING UNITY 6, DELETE THE TEXTMESH PRO EXTRAS FOLDER TO FIX OUT OF BOX ERRORS. 
+
 MIT License - Can use for personal projects or commercial game use. Please do not redistribute modified copies of this source code for commercial use by itself. 
 
 Versions:
