@@ -2,7 +2,7 @@
 KitPatcher for Unity.
 
 Thank you for beta testing KitPatcher.
-Please visit the Ghostdog Studio Discord to access support channels. 
+Please visit Discord to access support channels. 
 
 https://discord.gg/zqkV9RHjHb
 
